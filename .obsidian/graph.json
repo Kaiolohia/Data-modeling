@@ -1,0 +1,44 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "music",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "outer_space",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "Air_Traffic",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 1.56581196581197,
+  "lineSizeMultiplier": 2.73846153846154,
+  "collapse-forces": false,
+  "centerStrength": 0,
+  "repelStrength": 5.39325842696629,
+  "linkStrength": 1,
+  "linkDistance": 46,
+  "scale": 1.4019828977761115,
+  "close": true
+}

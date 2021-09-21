@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "7d421303ce5a8da8",
+    "type": "split",
+    "children": [
+      {
+        "id": "9c2f6cb5b7cadb02",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bdb9525b4340f833",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec70a5af45d36dbb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f4368b58e95a4646",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6e70fc092edb8d51",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e76d16a6c2451cb0",
+    "type": "split",
+    "children": [
+      {
+        "id": "5cfd92d0f9c28375",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6d853dc109da00e3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "9c2f6cb5b7cadb02",
+  "lastOpenFiles": [
+    "Craigslist/users.md",
+    "Craigslist/regions.md",
+    "Craigslist/posts.md",
+    "Craigslist/catagories.md",
+    "Untitled.md",
+    "Soccer/teams.md",
+    "Soccer/referees.md",
+    "Soccer/matches.md",
+    "Soccer/players.md",
+    "referees.md"
+  ]
+}
